@@ -49,13 +49,10 @@ def login():
     except Exception as e:
         return jsonify({"success": False, "message": str(e)}), 500
 
-from flask import Flask, request, jsonify
-from flask_cors import CORS
 import PyPDF2
 import faiss
 import numpy as np
 from sentence_transformers import SentenceTransformer
-import os
 import pickle
 import google.generativeai as genai
 from werkzeug.utils import secure_filename
