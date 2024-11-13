@@ -1,4 +1,4 @@
-#RagandUnlearn.ai
+# RagandUnlearn.ai
 
 ## A MLaaS Platform for creating Customizable and Compliant Gen AI Assistants
 
