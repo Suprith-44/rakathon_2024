@@ -1,6 +1,6 @@
 # RagandUnlearn.ai
 
-## A MLaaS Platform for creating Customizable and Compliant Gen AI Assistants
+## A MLaaS Platform for creating Customizable and Responsible AI Assistants
 
 ![RagAndUnlearn](RagAndUnlearn.jpg)
 
